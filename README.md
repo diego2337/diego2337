@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Diego Cintra</h1>
 <h3 align="center">A brazilian software engineer with 4+ years of work developing web apps and 6+ years of academic experience.</h3>
 
-- 🌱 I’m currently learning **Angular, React**
+- 🌱 I’m currently focusing on improving my **front-end (Angular and React)** knowledge
 
 - 👨‍💻 All of my personal projects are available at [https://github.com/diego2337](https://github.com/diego2337)
 
@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **NodeJS, Laravel, NestJS, Spring Boot**
 
-- 📫 How to reach me **diegosc2337@gmail.com**
+- 📫 How to reach me: **diegosc2337@gmail.com**
 
-- ⚡ Fun fact **I'm left handed :)**
+- ⚡ Fun fact (or not): **I'm left handed :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

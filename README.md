@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my personal projects are available at [https://github.com/diego2337](https://github.com/diego2337)
 
-- 📝 I regularly write articles on [https://medium.com/@diegosc2337](https://medium.com/@diegosc2337)
-
 - 💬 Ask me about **NodeJS, Laravel, NestJS, Spring Boot**
 
 - 📫 How to reach me: **diegosc2337@gmail.com**

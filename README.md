@@ -1,8 +1,6 @@
 <h1 align="center">Hey there, I'm Diego Cintra</h1>
 <h3 align="center">A brazilian software engineer with 6+ years of work developing web apps and 8+ years of academic experience.</h3>
 
-- 🌱 I’m currently focusing on improving my **front-end (Angular and React)** knowledge
-
 - 👨‍💻 All of my personal projects are available at [https://github.com/diego2337](https://github.com/diego2337)
 
 - 📫 How to reach me: **diegosc2337@gmail.com**
